@@ -1,0 +1,37 @@
+.container {
+  width: 600px;
+  height: 100px;
+  background-color: white;
+  border: 2px solid rgb(0, 132, 255);
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  
+  
+}
+
+.item {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(0, 132, 255);
+    
+}
+
+.container_2 {
+  width: 600px;
+  height: 100px;
+  background-color: rgb(218, 100, 33);
+  border: 2px solid rgb(0, 132, 255);
+  list-style-type: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.item_2 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(102, 55, 165);
+
+}
